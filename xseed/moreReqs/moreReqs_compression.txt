@@ -1,0 +1,3 @@
+tensorflow_compression
+tensorflow_probability
+numpy

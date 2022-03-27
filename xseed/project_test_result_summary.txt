@@ -1,0 +1,1155 @@
+AmpliGraph_
+WSeed Files: 500
+WOSeed Files: 500
+tests/ampligraph/discovery/test_discovery.py:test_generate_candidates,AssertionError:479,
+tests/ampligraph/evaluation/test_protocol.py:test_select_best_model_ranking_grid,AssertionError:149,
+tests/ampligraph/latent_features/test_models.py:test_evaluate_RandomBaseline,AssertionError:500,
+tests/ampligraph/latent_features/test_models.py:test_retrain,AssertionError:500,
+tests/ampligraph/evaluation/test_protocol.py:test_select_best_model_ranking_random,AssertionError:3,
+Total runs: 1000, timeouts: 0 
+
+
+Cirq_
+WSeed Files: 500
+WOSeed Files: 500
+cirq/experiments/fidelity_estimation_test.py:test_xeb_fidelity[0.0-hog_score_xeb_fidelity_from_probabilities],AssertionError:156,
+cirq/experiments/fidelity_estimation_test.py:test_xeb_fidelity[0.2-hog_score_xeb_fidelity_from_probabilities],AssertionError:173,
+cirq/experiments/fidelity_estimation_test.py:test_xeb_fidelity[0.2-linear_xeb_fidelity_from_probabilities],AssertionError:375,
+cirq/experiments/fidelity_estimation_test.py:test_xeb_fidelity[0.2-log_xeb_fidelity_from_probabilities],AssertionError:178,
+cirq/experiments/fidelity_estimation_test.py:test_xeb_fidelity[0.7-hog_score_xeb_fidelity_from_probabilities],AssertionError:265,
+cirq/experiments/fidelity_estimation_test.py:test_xeb_fidelity[0.7-linear_xeb_fidelity_from_probabilities],AssertionError:182,
+cirq/experiments/fidelity_estimation_test.py:test_xeb_fidelity[1.0-hog_score_xeb_fidelity_from_probabilities],AssertionError:300,
+cirq/experiments/fidelity_estimation_test.py:test_linear_and_log_xeb_fidelity,AssertionError:402,
+cirq/experiments/fidelity_estimation_test.py:test_least_squares_xeb_fidelity_from_expectations,AssertionError:156,
+examples/examples_test.py:test_example_runs_bb84,AssertionError:161,
+examples/examples_test.py:test_example_runs_quantum_teleportation,AssertionError:500,
+cirq/experiments/fidelity_estimation_test.py:test_xeb_fidelity[0.0-linear_xeb_fidelity_from_probabilities],AssertionError:396,
+cirq/sim/clifford/clifford_simulator_test.py:test_clifford_circuit_2[qubits1],AssertionError:152,
+cirq/sim/clifford/clifford_simulator_test.py:test_clifford_circuit_2[qubits0],AssertionError:121,
+cirq/experiments/fidelity_estimation_test.py:test_xeb_fidelity[0.7-log_xeb_fidelity_from_probabilities],AssertionError:253,
+cirq/experiments/fidelity_estimation_test.py:test_xeb_fidelity[1.0-log_xeb_fidelity_from_probabilities],AssertionError:336,
+cirq/sim/clifford/clifford_simulator_test.py:test_clifford_circuit_3,AssertionError:61,
+cirq/experiments/fidelity_estimation_test.py:test_least_squares_xeb_fidelity_from_probabilities,AssertionError:43,
+cirq/experiments/fidelity_estimation_test.py:test_xeb_fidelity[0.0-log_xeb_fidelity_from_probabilities],AssertionError:168,
+cirq/optimizers/controlled_gate_decomposition_test.py:test_decompose_size_unitary,AssertionError:2,
+cirq/optimizers/controlled_gate_decomposition_test.py:test_decompose_random_unitary,AssertionError:1,
+Total runs: 1000, timeouts: 0 
+
+
+CityEnergyAnalyst_
+WSeed Files: 500
+WOSeed Files: 500
+Total runs: 1000, timeouts: 0 
+
+
+EfficientNet-PyTorch_
+WSeed Files: 500
+WOSeed Files: 500
+Total runs: 1000, timeouts: 0 
+
+
+GPflow_
+WSeed Files: 500
+WOSeed Files: 500
+tests/gpflow/likelihoods/test_likelihoods.py:test_montecarlo_predict_mean_and_var[mu0-var0-y0-0.3],AssertionError:8,
+tests/integration/test_method_equivalence.py:test_equivalence_vgp_and_opper_archambeau,AssertionError:8,
+tests/gpflow/likelihoods/test_multiclass.py:test_softmax_bernoulli_equivalence[2-1-10],AssertionError:20,
+tests/gpflow/optimizers/test_mcmc.py:test_mcmc_helper_target_function_constrained,AssertionError:3,
+tests/gpflow/likelihoods/test_switched_likelihood.py:test_switched_likelihood_predict_log_density[Y_label0-Fvar_list0-F_list0-Y_list0],AssertionError:2,
+tests/gpflow/conditionals/test_multioutput.py:test_sample_conditional[False-True-False],AssertionError:3,
+Total runs: 1000, timeouts: 0 
+
+
+GPim_
+WSeed Files: 500
+WOSeed Files: 500
+test/test_boptim.py:test_boptim[ei-/home/saikat/projects/borntobeflaky/projects/GPim/test/test_data/test_ei.npy],AssertionError:500,
+Total runs: 1000, timeouts: 0 
+
+
+HanLP_
+WSeed Files: 500
+WOSeed Files: 500
+Total runs: 1000, timeouts: 0 
+
+
+InferPy_
+WSeed Files: 500
+WOSeed Files: 500
+Total runs: 1000, timeouts: 0 
+
+
+Kashgari_
+WSeed Files: 500
+WOSeed Files: 500
+Total runs: 1000, timeouts: 0 
+
+
+MatchZoo_
+WSeed Files: 500
+WOSeed Files: 500
+Total runs: 1000, timeouts: 0 
+
+
+MobileNeXt_
+WSeed Files: 500
+WOSeed Files: 500
+Total runs: 2, timeouts: 998 
+
+
+OpenNMT-py_
+WSeed Files: 500
+WOSeed Files: 500
+Total runs: 1000, timeouts: 0 
+
+
+ParlAI_
+WSeed Files: 500
+WOSeed Files: 500
+Total runs: 1000, timeouts: 0 
+
+
+RLs_
+WSeed Files: 500
+WOSeed Files: 500
+Total runs: 1000, timeouts: 0 
+
+
+ResNeSt_
+WSeed Files: 500
+WOSeed Files: 100
+Total runs: 0, timeouts: 600 
+
+
+TensorNetwork_
+WSeed Files: 500
+WOSeed Files: 500
+tensornetwork/backends/jax/jitted_functions_test.py:test_gmres_arnoldi_step[float32],AssertionError:87,
+tensornetwork/backends/numpy/numpy_backend_test.py:test_randn_seed[float32],AssertionError:500,
+tensornetwork/backends/numpy/numpy_backend_test.py:test_randn_seed[float16],AssertionError:500,
+tensornetwork/backends/numpy/numpy_backend_test.py:test_randn_seed[float64],AssertionError:500,
+tensornetwork/backends/numpy/numpy_backend_test.py:test_random_uniform_seed[float32],AssertionError:500,
+tensornetwork/backends/numpy/numpy_backend_test.py:test_random_uniform_seed[float16],AssertionError:500,
+tensornetwork/backends/numpy/numpy_backend_test.py:test_random_uniform_seed[float64],AssertionError:500,
+tensornetwork/backends/numpy/numpy_backend_test.py:test_random_uniform_seed[complex64],AssertionError:500,
+tensornetwork/backends/numpy/numpy_backend_test.py:test_random_uniform_seed[complex128],AssertionError:500,
+tensornetwork/backends/numpy/numpy_backend_test.py:test_random_uniform_behavior,AssertionError:500,
+tensornetwork/backends/numpy/numpy_backend_test.py:test_gmres_on_larger_random_problem[float16],AssertionError:500,
+tensornetwork/backends/numpy/numpy_backend_test.py:test_gmres_not_matrix[float16],AssertionError:500,
+tensornetwork/backends/numpy/numpy_backend_test.py:test_eigs[LM-float64],AssertionError:500,
+tensornetwork/backends/numpy/numpy_backend_test.py:test_eigs_init[LM-float64],AssertionError:500,
+tensornetwork/backends/symmetric/decompositions_test.py:test_max_truncation_error[3-float64],AssertionError:500,
+tensornetwork/backends/symmetric/decompositions_test.py:test_max_truncation_error[3-complex128],AssertionError:500,
+tensornetwork/backends/symmetric/symmetric_backend_test.py:test_randn[1-2-float32],AssertionError:500,
+tensornetwork/backends/symmetric/symmetric_backend_test.py:test_randn[1-2-float16],AssertionError:500,
+tensornetwork/backends/symmetric/symmetric_backend_test.py:test_randn[1-2-float64],AssertionError:500,
+tensornetwork/backends/symmetric/symmetric_backend_test.py:test_randn[1-3-float32],AssertionError:500,
+tensornetwork/backends/symmetric/symmetric_backend_test.py:test_randn[1-3-float16],AssertionError:500,
+tensornetwork/backends/symmetric/symmetric_backend_test.py:test_randn[1-3-float64],AssertionError:500,
+tensornetwork/backends/symmetric/symmetric_backend_test.py:test_randn[1-4-float32],AssertionError:500,
+tensornetwork/backends/symmetric/symmetric_backend_test.py:test_randn[1-4-float16],AssertionError:500,
+tensornetwork/backends/symmetric/symmetric_backend_test.py:test_randn[1-4-float64],AssertionError:500,
+tensornetwork/backends/symmetric/symmetric_backend_test.py:test_randn[1-5-float32],AssertionError:500,
+tensornetwork/backends/symmetric/symmetric_backend_test.py:test_randn[1-5-float16],AssertionError:500,
+tensornetwork/backends/symmetric/symmetric_backend_test.py:test_randn[1-5-float64],AssertionError:500,
+tensornetwork/backends/symmetric/symmetric_backend_test.py:test_randn[2-2-float32],AssertionError:500,
+tensornetwork/backends/symmetric/symmetric_backend_test.py:test_randn[2-2-float16],AssertionError:500,
+tensornetwork/backends/symmetric/symmetric_backend_test.py:test_randn[2-2-float64],AssertionError:500,
+tensornetwork/backends/symmetric/symmetric_backend_test.py:test_randn[2-3-float32],AssertionError:500,
+tensornetwork/backends/symmetric/symmetric_backend_test.py:test_randn[2-3-float16],AssertionError:500,
+tensornetwork/backends/symmetric/symmetric_backend_test.py:test_randn[2-3-float64],AssertionError:500,
+tensornetwork/backends/symmetric/symmetric_backend_test.py:test_randn[2-4-float32],AssertionError:500,
+tensornetwork/backends/symmetric/symmetric_backend_test.py:test_randn[2-4-float16],AssertionError:500,
+tensornetwork/backends/symmetric/symmetric_backend_test.py:test_randn[2-4-float64],AssertionError:500,
+tensornetwork/backends/symmetric/symmetric_backend_test.py:test_randn[2-5-float32],AssertionError:500,
+tensornetwork/backends/symmetric/symmetric_backend_test.py:test_randn[2-5-float16],AssertionError:500,
+tensornetwork/backends/symmetric/symmetric_backend_test.py:test_randn[2-5-float64],AssertionError:500,
+tensornetwork/backends/symmetric/symmetric_backend_test.py:test_random_uniform[1-2-float32],AssertionError:500,
+tensornetwork/backends/symmetric/symmetric_backend_test.py:test_random_uniform[1-2-float16],AssertionError:500,
+tensornetwork/backends/symmetric/symmetric_backend_test.py:test_random_uniform[1-2-float64],AssertionError:500,
+tensornetwork/backends/symmetric/symmetric_backend_test.py:test_random_uniform[1-3-float32],AssertionError:500,
+tensornetwork/backends/symmetric/symmetric_backend_test.py:test_random_uniform[1-3-float16],AssertionError:500,
+tensornetwork/backends/symmetric/symmetric_backend_test.py:test_random_uniform[1-3-float64],AssertionError:500,
+tensornetwork/backends/symmetric/symmetric_backend_test.py:test_random_uniform[1-4-float32],AssertionError:500,
+tensornetwork/backends/symmetric/symmetric_backend_test.py:test_random_uniform[1-4-float16],AssertionError:500,
+tensornetwork/backends/symmetric/symmetric_backend_test.py:test_random_uniform[1-4-float64],AssertionError:500,
+tensornetwork/backends/symmetric/symmetric_backend_test.py:test_random_uniform[1-5-float32],AssertionError:500,
+tensornetwork/backends/symmetric/symmetric_backend_test.py:test_random_uniform[1-5-float16],AssertionError:500,
+tensornetwork/backends/symmetric/symmetric_backend_test.py:test_random_uniform[1-5-float64],AssertionError:500,
+tensornetwork/backends/symmetric/symmetric_backend_test.py:test_random_uniform[2-2-float32],AssertionError:500,
+tensornetwork/backends/symmetric/symmetric_backend_test.py:test_random_uniform[2-2-float16],AssertionError:500,
+tensornetwork/backends/symmetric/symmetric_backend_test.py:test_random_uniform[2-3-float32],AssertionError:500,
+tensornetwork/backends/symmetric/symmetric_backend_test.py:test_random_uniform[2-3-float16],AssertionError:500,
+tensornetwork/backends/symmetric/symmetric_backend_test.py:test_random_uniform[2-3-float64],AssertionError:500,
+tensornetwork/backends/symmetric/symmetric_backend_test.py:test_random_uniform[2-4-float32],AssertionError:500,
+tensornetwork/backends/symmetric/symmetric_backend_test.py:test_random_uniform[2-4-float16],AssertionError:500,
+tensornetwork/backends/symmetric/symmetric_backend_test.py:test_random_uniform[2-4-float64],AssertionError:500,
+tensornetwork/backends/symmetric/symmetric_backend_test.py:test_random_uniform[2-5-float32],AssertionError:500,
+tensornetwork/backends/symmetric/symmetric_backend_test.py:test_random_uniform[2-5-float16],AssertionError:500,
+tensornetwork/backends/symmetric/symmetric_backend_test.py:test_random_uniform[2-5-float64],AssertionError:500,
+tensornetwork/backends/symmetric/symmetric_backend_test.py:test_randn_non_zero_imag[2-complex64-2],AssertionError:500,
+tensornetwork/backends/symmetric/symmetric_backend_test.py:test_randn_non_zero_imag[2-complex128-2],AssertionError:500,
+tensornetwork/backends/symmetric/symmetric_backend_test.py:test_randn_seed[1-float32],AssertionError:500,
+tensornetwork/backends/symmetric/symmetric_backend_test.py:test_randn_seed[1-float16],AssertionError:500,
+tensornetwork/backends/symmetric/symmetric_backend_test.py:test_randn_seed[1-float64],AssertionError:500,
+tensornetwork/backends/symmetric/symmetric_backend_test.py:test_randn_seed[2-float32],AssertionError:500,
+tensornetwork/backends/symmetric/symmetric_backend_test.py:test_randn_seed[2-float16],AssertionError:500,
+tensornetwork/backends/symmetric/symmetric_backend_test.py:test_randn_seed[2-float64],AssertionError:500,
+tensornetwork/backends/symmetric/symmetric_backend_test.py:test_random_uniform_seed[1-float32],AssertionError:500,
+tensornetwork/backends/symmetric/symmetric_backend_test.py:test_random_uniform_seed[1-float16],AssertionError:500,
+tensornetwork/backends/symmetric/symmetric_backend_test.py:test_random_uniform_seed[1-float64],AssertionError:500,
+tensornetwork/backends/symmetric/symmetric_backend_test.py:test_random_uniform_seed[2-float32],AssertionError:500,
+tensornetwork/backends/symmetric/symmetric_backend_test.py:test_random_uniform_seed[2-float16],AssertionError:500,
+tensornetwork/backends/symmetric/symmetric_backend_test.py:test_random_uniform_seed[2-float64],AssertionError:500,
+tensornetwork/backends/symmetric/symmetric_backend_test.py:test_eigs_non_trivial[True-True-1-float64],AssertionError:500,
+tensornetwork/backends/symmetric/symmetric_backend_test.py:test_eigs_non_trivial[True-True-1-complex128],AssertionError:500,
+tensornetwork/backends/symmetric/symmetric_backend_test.py:test_eigs_non_trivial[True-True-4-float64],AssertionError:500,
+tensornetwork/backends/symmetric/symmetric_backend_test.py:test_eigs_non_trivial[True-False-1-complex128],AssertionError:500,
+tensornetwork/backends/symmetric/symmetric_backend_test.py:test_eigs_non_trivial[True-False-4-float64],AssertionError:500,
+tensornetwork/backends/symmetric/symmetric_backend_test.py:test_eigs_non_trivial[True-False-4-complex128],AssertionError:500,
+tensornetwork/backends/symmetric/symmetric_backend_test.py:test_eigs_non_trivial[False-True-1-float64],AssertionError:500,
+tensornetwork/backends/symmetric/symmetric_backend_test.py:test_eigs_non_trivial[False-True-1-complex128],AssertionError:500,
+tensornetwork/backends/symmetric/symmetric_backend_test.py:test_eigs_non_trivial[False-True-4-float64],AssertionError:500,
+tensornetwork/backends/symmetric/symmetric_backend_test.py:test_eigs_non_trivial[False-False-1-complex128],AssertionError:500,
+tensornetwork/backends/symmetric/symmetric_backend_test.py:test_eigs_non_trivial[False-False-4-float64],AssertionError:500,
+tensornetwork/backends/symmetric/symmetric_backend_test.py:test_eigs_non_trivial[False-False-4-complex128],AssertionError:500,
+tensornetwork/backends/symmetric/symmetric_backend_test.py:test_gmres[None-True-float64],AssertionError:500,
+tensornetwork/backends/symmetric/symmetric_backend_test.py:test_gmres[None-True-complex128],AssertionError:500,
+tensornetwork/backends/symmetric/symmetric_backend_test.py:test_gmres[None-False-float64],AssertionError:500,
+tensornetwork/backends/symmetric/symmetric_backend_test.py:test_gmres[40-False-float64],AssertionError:500,
+tensornetwork/backends/symmetric/symmetric_backend_test.py:test_gmres[40-False-complex128],AssertionError:500,
+tensornetwork/backends/symmetric/symmetric_backend_test.py:test_gmres_no_args[None-True-float64],AssertionError:500,
+tensornetwork/backends/symmetric/symmetric_backend_test.py:test_gmres_no_args[None-True-complex128],AssertionError:500,
+tensornetwork/backends/symmetric/symmetric_backend_test.py:test_gmres_no_args[None-False-float64],AssertionError:500,
+tensornetwork/backends/symmetric/symmetric_backend_test.py:test_gmres_no_args[None-False-complex128],AssertionError:500,
+tensornetwork/backends/symmetric/symmetric_backend_test.py:test_gmres_no_args[40-True-float64],AssertionError:500,
+tensornetwork/backends/symmetric/symmetric_backend_test.py:test_gmres_no_args[40-False-complex128],AssertionError:500,
+tensornetwork/linalg/tests/initialization_test.py:test_randn[numpy],AssertionError:500,
+tensornetwork/linalg/tests/initialization_test.py:test_random_uniform[numpy],AssertionError:500,
+tensornetwork/linalg/tests/node_linalg_test.py:test_randn[numpy],AssertionError:500,
+tensornetwork/linalg/tests/node_linalg_test.py:test_random_uniform[numpy],AssertionError:500,
+tensornetwork/backends/jax/jitted_functions_test.py:test_gmres_arnoldi_step[complex128],AssertionError:72,
+tensornetwork/backends/jax/jitted_functions_test.py:test_gmres_krylov[complex128],AssertionError:23,
+tensornetwork/backends/jax/jitted_functions_test.py:test_gmres_krylov[float32],AssertionError:30,
+tensornetwork/backends/jax/jitted_functions_test.py:test_gmres_arnoldi_step[complex64],AssertionError:91,
+tensornetwork/backends/jax/jitted_functions_test.py:test_gmres_krylov[complex64],AssertionError:2,
+tensornetwork/backends/jax/jitted_functions_test.py:test_gmres_arnoldi_step[float64],AssertionError:81,
+tensornetwork/backends/jax/jax_backend_test.py:test_eigsh_free_fermions[14-rand-complex128],AssertionError:11,
+tensornetwork/backends/jax/jitted_functions_test.py:test_gmres_krylov[float64],AssertionError:11,
+tensornetwork/backends/jax/jax_backend_test.py:test_eigsh_free_fermions[14-uniform-float64],AssertionError:2,
+tensornetwork/backends/jax/jax_backend_test.py:test_eigsh_free_fermions[14-rand-float64],AssertionError:14,
+examples/wavefunctions/wavefunctions_test.py:test_evolve_trotter[5-2-False],AssertionError:2,
+Total runs: 1000, timeouts: 0 
+
+
+TextAttack_
+WSeed Files: 500
+WOSeed Files: 500
+tests/test_command_line/test_attack.py:test_command_line_attack[attack_from_transformers-textattack attack --model-from-huggingface distilbert-base-uncased-finetuned-sst-2-english --dataset-from-huggingface glue^sst2^train --recipe deepwordbug --num-examples 3 --shuffle=False-tests/sample_outputs/run_attack_transformers_datasets.txt],AssertionError:45,
+tests/test_command_line/test_attack.py:test_command_line_attack[load_model_and_dataset_from_file-textattack attack --model-from-file tests/sample_inputs/sst_model_and_dataset.py --dataset-from-file tests/sample_inputs/sst_model_and_dataset.py --recipe deepwordbug --num-examples 3 --shuffle=False-tests/sample_outputs/run_attack_transformers_datasets.txt],AssertionError:45,
+Total runs: 74, timeouts: 926 
+
+
+acme_
+WSeed Files: 500
+WOSeed Files: 500
+Total runs: 978, timeouts: 22 
+
+
+alibi-detect_
+WSeed Files: 500
+WOSeed Files: 500
+alibi_detect/cd/tests/test_ks.py:test_ksdrift[369],AssertionError:45,
+alibi_detect/utils/tests/test_statstest.py:test_permutation[0],AssertionError:194,
+alibi_detect/utils/tests/test_statstest.py:test_permutation[2],AssertionError:178,
+alibi_detect/cd/tests/test_ks.py:test_ksdrift[368],AssertionError:62,
+alibi_detect/cd/tests/test_ks.py:test_ksdrift[370],AssertionError:25,
+alibi_detect/cd/tests/test_ks.py:test_ksdrift[372],AssertionError:61,
+alibi_detect/cd/tests/test_ks.py:test_ksdrift[371],AssertionError:22,
+alibi_detect/cd/tests/test_ks.py:test_ksdrift[374],AssertionError:21,
+alibi_detect/cd/tests/test_ks.py:test_ksdrift[373],AssertionError:57,
+alibi_detect/cd/tests/test_ks.py:test_ksdrift[377],AssertionError:2,
+alibi_detect/cd/tests/test_ks.py:test_ksdrift[375],AssertionError:18,
+alibi_detect/cd/tests/test_classifier.py:test_clfdrift[8],AssertionError:8,
+alibi_detect/ad/tests/test_admd.py:test_adv_md[3],AssertionError:1,
+alibi_detect/ad/tests/test_admd.py:test_adv_md[1],AssertionError:1,
+alibi_detect/cd/tests/test_ks.py:test_ksdrift[379],AssertionError:3,
+alibi_detect/cd/tests/test_ks.py:test_ksdrift[376],AssertionError:3,
+alibi_detect/cd/tests/test_classifier.py:test_clfdrift[6],AssertionError:4,
+alibi_detect/cd/tests/test_ks.py:test_ksdrift[383],AssertionError:4,
+alibi_detect/cd/tests/test_classifier.py:test_clfdrift[7],AssertionError:2,
+alibi_detect/cd/tests/test_ks.py:test_ksdrift[382],AssertionError:4,
+alibi_detect/cd/tests/test_ks.py:test_ksdrift[380],AssertionError:1,
+alibi_detect/cd/tests/test_ks.py:test_ksdrift[378],AssertionError:2,
+alibi_detect/cd/tests/test_ks.py:test_ksdrift[381],AssertionError:1,
+alibi_detect/od/tests/test_sr.py:test_sr[0],AssertionError:1,
+alibi_detect/od/tests/test_sr.py:test_sr[1],AssertionError:1,
+Total runs: 1000, timeouts: 0 
+
+
+allennlp_
+WSeed Files: 500
+WOSeed Files: 500
+tests/models/basic_classifier_test.py:TestBasicClassifier.test_seq2vec_clf_can_train_save_and_load,AssertionError:72,
+tests/modules/transformer/self_attention_test.py:TestSelfAttention.test_loading_from_pretrained_weights_using_model_name[distilbert-base-uncased],AssertionError:61,
+tests/modules/transformer/transformer_embeddings_test.py:TestTransformerEmbeddings.test_sanity,AssertionError:273,
+tests/modules/transformer/transformer_embeddings_test.py:TestImageFeatureEmbeddings.test_sanity,AssertionError:273,
+tests/modules/transformer/transformer_layer_test.py:TestAttentionLayer.test_forward_against_huggingface_outputs[bert-hf_module0],AssertionError:273,
+tests/modules/transformer/transformer_layer_test.py:TestAttentionLayer.test_forward_against_huggingface_outputs[roberta-hf_module1],AssertionError:273,
+tests/modules/transformer/transformer_layer_test.py:TestAttentionLayer.test_forward_against_huggingface_outputs[electra-hf_module2],AssertionError:273,
+tests/modules/transformer/transformer_layer_test.py:TestTransformerLayer.test_forward_against_huggingface_outputs[bert-hf_module0],AssertionError:273,
+tests/modules/transformer/transformer_layer_test.py:TestTransformerLayer.test_forward_against_huggingface_outputs[roberta-hf_module1],AssertionError:273,
+tests/modules/transformer/transformer_layer_test.py:TestTransformerLayer.test_forward_against_huggingface_outputs[electra-hf_module2],AssertionError:273,
+tests/modules/transformer/transformer_stack_test.py:TestTransformerStack.test_layer_same_as_params,AssertionError:273,
+tests/modules/transformer/transformer_stack_test.py:TestTransformerStack.test_forward_against_huggingface_outputs[bert-hf_module0],AssertionError:273,
+tests/modules/transformer/transformer_stack_test.py:TestTransformerStack.test_forward_against_huggingface_outputs[roberta-hf_module1],AssertionError:273,
+tests/modules/transformer/transformer_stack_test.py:TestTransformerStack.test_forward_against_huggingface_outputs[electra-hf_module2],AssertionError:273,
+tests/models/basic_classifier_test.py:TestBasicClassifier.test_seq2seq_clf_can_train_save_and_load,AssertionError:75,
+tests/modules/masked_layer_norm_test.py:TestMaskedLayerNorm.test_masked_layer_norm,AssertionError:25,
+tests/modules/transformer/transformer_embeddings_test.py:TestTransformerEmbeddings.test_forward_against_huggingface_output[albert-hf_module1],AssertionError:7,
+tests/modules/transformer/transformer_embeddings_test.py:TestTransformerEmbeddings.test_forward_against_huggingface_output[bert-hf_module0],AssertionError:5,
+tests/modules/transformer/self_attention_test.py:TestSelfAttention.test_forward_against_huggingface_output[distilbert-hf_module3],AssertionError:3,
+Total runs: 447, timeouts: 553 
+
+
+anneal_
+WSeed Files: 500
+WOSeed Files: 500
+Total runs: 1000, timeouts: 0 
+
+
+arviz_
+WSeed Files: 500
+WOSeed Files: 500
+Total runs: 1000, timeouts: 0 
+
+
+autoimpute_
+WSeed Files: 500
+WOSeed Files: 500
+Total runs: 1000, timeouts: 0 
+
+
+bambi_
+WSeed Files: 500
+WOSeed Files: 500
+bambi/tests/test_built_models.py:test_3x4_common_anova,AssertionError:2,
+bambi/tests/test_built_models.py:test_gamma_regression,AssertionError:2,
+bambi/tests/test_built_models.py:test_binomial_regression,AssertionError:3,
+bambi/tests/test_built_models.py:test_init_fallback,AssertionError:3,
+bambi/tests/test_built_models.py:test_cell_means_with_many_group_specific_effects,AssertionError:2,
+bambi/tests/test_built_models.py:test_group_specific_categorical_interaction,AssertionError:2,
+Total runs: 1000, timeouts: 0 
+
+
+bilm-tf_
+WSeed Files: 500
+WOSeed Files: 500
+Total runs: 1000, timeouts: 0 
+
+
+captum_
+WSeed Files: 500
+WOSeed Files: 500
+tests.attr.test_feature_permutation.Test.test_sparse_features>,AssertionError:355,
+tests.attr.test_gradient_shap.Test.test_basic_relu_multi_input>,AssertionError:460,
+tests.attr.test_gradient_shap.Test.test_classification>,AssertionError:451,
+tests.attr.test_gradient_shap.Test.test_classification_baselines_as_function>,AssertionError:445,
+tests.attr.test_kernel_shap.Test.test_multi_inp_kernel_shap_scalar_tensor_0d>,AssertionError:217,
+tests.attr.test_lime.Test.test_multi_inp_lime_scalar_tensor_int>,AssertionError:121,
+tests.attr.test_lime.Test.test_multi_input_batch_lime>,AssertionError:433,
+tests.attr.test_shapley.Test.test_multi_inp_shapley_batch_scalar_float>,AssertionError:154,
+tests.attr.test_shapley.Test.test_multi_inp_shapley_batch_scalar_tensor_1d>,AssertionError:155,
+tests.attr.test_shapley.Test.test_multi_sample_shapley_batch_scalar_float>,AssertionError:272,
+tests.attr.test_shapley.Test.test_multi_sample_shapley_batch_scalar_tensor_1d>,AssertionError:252,
+tests.attr.test_shapley.Test.test_single_shapley_int_batch_scalar_tensor_0d>,AssertionError:230,
+tests.attr.test_shapley.Test.test_single_shapley_int_batch_scalar_tensor_int>,AssertionError:237,
+tests.attr.test_targets.TestTargets.test_target_basic_multi_inp_with_single_baseline_grad_shap_GradientShap>,AssertionError:142,
+tests.attr.test_targets.TestTargets.test_target_basic_multi_input_multi_target_KernelShap>,AssertionError:500,
+tests.attr.test_targets.TestTargets.test_target_basic_multi_input_multi_target_Lime>,AssertionError:500,
+tests.attr.test_targets.TestTargets.test_target_basic_multi_input_multi_target_ShapleyValueSampling>,AssertionError:500,
+tests.attr.test_targets.TestTargets.test_target_basic_multi_target_KernelShap>,AssertionError:480,
+tests.attr.test_targets.TestTargets.test_target_basic_multi_target_ShapleyValueSampling>,AssertionError:480,
+tests.attr.test_targets.TestTargets.test_target_basic_multiple_tuple_target_KernelShap>,AssertionError:477,
+tests.attr.test_targets.TestTargets.test_target_basic_multiple_tuple_target_Lime>,AssertionError:500,
+tests.attr.test_targets.TestTargets.test_target_basic_multiple_tuple_target_ShapleyValueSampling>,AssertionError:477,
+tests.attr.test_targets.TestTargets.test_target_basic_multiple_tuple_target_with_baselines_KernelShap>,AssertionError:484,
+tests.attr.test_targets.TestTargets.test_target_basic_multiple_tuple_target_with_baselines_Lime>,AssertionError:500,
+tests.attr.test_targets.TestTargets.test_target_basic_multiple_tuple_target_with_baselines_ShapleyValueSampling>,AssertionError:484,
+tests.attr.test_targets.TestTargets.test_target_basic_multiple_tuple_target_with_perturbations_per_eval_KernelShap>,AssertionError:466,
+tests.attr.test_targets.TestTargets.test_target_basic_multiple_tuple_target_with_perturbations_per_eval_Lime>,AssertionError:500,
+tests.attr.test_targets.TestTargets.test_target_basic_multiple_tuple_target_with_perturbations_per_eval_ShapleyValueSampling>,AssertionError:466,
+tests.attr.test_targets.TestTargets.test_target_basic_tensor_multi_target_KernelShap>,AssertionError:469,
+tests.attr.test_targets.TestTargets.test_target_basic_tensor_multi_target_ShapleyValueSampling>,AssertionError:470,
+tests.attr.test_targets.TestTargets.test_target_basic_tensor_single_target_KernelShap>,AssertionError:468,
+tests.attr.test_targets.TestTargets.test_target_basic_tensor_single_target_Lime>,AssertionError:372,
+tests.attr.test_targets.TestTargets.test_target_basic_tensor_single_target_ShapleyValueSampling>,AssertionError:466,
+tests.attr.test_targets.TestTargets.test_target_basic_tensor_single_target_with_baselines_KernelShap>,AssertionError:487,
+tests.attr.test_targets.TestTargets.test_target_basic_tensor_single_target_with_baselines_Lime>,AssertionError:410,
+tests.attr.test_targets.TestTargets.test_target_basic_tensor_single_target_with_baselines_ShapleyValueSampling>,AssertionError:488,
+tests.attr.layer.test_layer_gradient_shap.Test.test_basic_multi_input>,AssertionError:500,
+tests.attr.layer.test_layer_gradient_shap.Test.test_basic_multilayer>,AssertionError:444,
+tests.attr.layer.test_layer_gradient_shap.Test.test_basic_multilayer_compare_w_inp_features>,AssertionError:500,
+tests.attr.layer.test_layer_gradient_shap.Test.test_basic_multilayer_with_add_args>,AssertionError:500,
+tests.attr.layer.test_layer_gradient_shap.Test.test_classification>,AssertionError:417,
+tests.attr.neuron.test_neuron_gradient_shap.Test.test_classification>,AssertionError:289,
+tests.utils.test_linear_model.TestLinearModel.test_simple_linear_regression>,AssertionError:495,
+tests.utils.test_linear_model.TestLinearModel.test_simple_multi_output>,AssertionError:177,
+tests.attr.test_deeplift_classification.Test.test_softmax_classification_batch_multi_target>,AssertionError:107,
+tests.attr.test_kernel_shap.Test.test_multi_inp_kernel_shap_scalar_tensor_int>,AssertionError:211,
+tests.attr.test_kernel_shap.Test.test_simple_batch_kernel_shap_with_mask>,AssertionError:142,
+tests.attr.test_lime.Test.test_multi_inp_lime_scalar_float>,AssertionError:147,
+tests.attr.test_lime.Test.test_multi_inp_lime_scalar_tensor_0d>,AssertionError:150,
+tests.attr.test_lime.Test.test_multi_inp_lime_scalar_tensor_1d>,AssertionError:140,
+tests.attr.test_shapley.Test.test_multi_sample_shapley_batch_scalar_tensor_0d>,AssertionError:226,
+tests.attr.test_shapley.Test.test_single_shapley_int_batch_scalar_float>,AssertionError:242,
+tests.attr.test_targets.TestTargets.test_target_basic_layer_multi_inp_multi_target_grad_shap_LayerGradientShap>,AssertionError:135,
+tests.attr.test_targets.TestTargets.test_target_basic_tensor_multi_target_Lime>,AssertionError:391,
+tests.attr.test_feature_permutation.Test.test_perm_fn_broadcastable_masks>,AssertionError:260,
+tests.attr.test_lime.Test.test_multi_input_batch_lime_without_mask>,AssertionError:49,
+tests.attr.test_shapley.Test.test_multi_inp_shapley_batch_scalar_tensor_0d>,AssertionError:145,
+tests.attr.test_shapley.Test.test_multi_sample_shapley_batch_scalar_tensor_int>,AssertionError:238,
+tests.attr.test_targets.TestTargets.test_target_basic_multi_target_Lime>,AssertionError:383,
+tests.attr.test_kernel_shap.Test.test_multi_inp_kernel_shap_scalar_tensor_1d>,AssertionError:217,
+tests.attr.test_kernel_shap.Test.test_simple_kernel_shap_with_mask>,AssertionError:153,
+tests.attr.test_lime.Test.test_simple_lime_with_baselines>,AssertionError:136,
+tests.attr.test_kernel_shap.Test.test_multi_inp_kernel_shap_scalar_float>,AssertionError:191,
+tests.attr.test_lime.Test.test_multi_input_lime_with_mask>,AssertionError:5,
+tests.attr.layer.test_layer_gradient_shap.Test.test_basic_multi_tensor_output>,AssertionError:45,
+tests.attr.neuron.test_neuron_gradient_shap.Test.test_basic_multilayer_wo_mult_by_inputs_agg_neurons>,AssertionError:46,
+tests.attr.neuron.test_neuron_gradient_shap.Test.test_basic_multilayer_wo_mult_by_inputs>,AssertionError:29,
+tests.attr.test_shapley.Test.test_shapley_sampling_with_mask_and_show_progress>,AssertionError:55,
+tests.attr.test_shapley.Test.test_single_shapley_int_batch_scalar_tensor_1d>,AssertionError:234,
+tests.attr.test_shapley.Test.test_multi_input_shapley_sampling_with_mask>,AssertionError:46,
+tests.attr.test_kernel_shap.Test.test_multi_input_kernel_shap_with_mask>,AssertionError:104,
+tests.attr.test_lime.Test.test_simple_lime_with_show_progress>,AssertionError:23,
+tests.attr.test_lime.Test.test_simple_batch_lime_with_mask>,AssertionError:15,
+tests.attr.test_shapley.Test.test_mutli_inp_shapley_batch_scalar_tensor_int>,AssertionError:131,
+tests.attr.test_integrated_gradients_classification.Test.test_sigmoid_classification_vanilla>,AssertionError:9,
+tests.attr.test_integrated_gradients_classification.Test.test_softmax_classification_vanilla_batch>,AssertionError:39,
+tests.attr.test_targets.TestTargets.test_target_basic_multiple_tuple_target_with_single_baseline_grad_shap_GradientShap>,AssertionError:93,
+tests.attr.test_shapley.Test.test_simple_shapley_sampling_with_mask>,AssertionError:42,
+tests.attr.test_kernel_shap.Test.test_multi_input_batch_kernel_shap_without_mask>,AssertionError:1,
+tests.attr.test_kernel_shap.Test.test_simple_kernel_shap>,AssertionError:15,
+tests.attr.test_lime.Test.test_simple_lime>,AssertionError:65,
+tests.attr.test_deeplift_classification.Test.test_softmax_classification_batch_multi_baseline>,AssertionError:17,
+tests.attr.test_kernel_shap.Test.test_simple_kernel_shap_with_show_progress>,AssertionError:18,
+tests.attr.test_deeplift_classification.Test.test_softmax_classification_batch_zero_baseline>,AssertionError:54,
+tests.attr.test_shapley.Test.test_multi_sample_shapley_sampling_with_mask>,AssertionError:50,
+tests.attr.test_stat.Test.test_stats_random_data>,AssertionError:49,
+tests.attr.test_kernel_shap.Test.test_multi_input_batch_kernel_shap>,AssertionError:34,
+tests.attr.test_targets.TestTargets.test_target_basic_single_tensor_target_with_single_baseline_grad_shap_GradientShap>,AssertionError:3,
+tests.attr.test_lime.Test.test_simple_batch_lime>,AssertionError:10,
+tests.attr.test_shapley.Test.test_multi_sample_shapley_sampling>,AssertionError:9,
+tests.attr.test_shapley.Test.test_simple_shapley_sampling>,AssertionError:6,
+tests.attr.test_shapley.Test.test_shapley_sampling_with_show_progress>,AssertionError:5,
+test_contribution.Test.test_one_feature>,AssertionError:2,
+tests.attr.test_lime.Test.test_multi_input_lime_without_mask>,AssertionError:5,
+test_contribution.Test.test_multi_features>,AssertionError:4,
+tests.attr.test_lime.Test.test_simple_lime_with_mask>,AssertionError:7,
+tests.attr.test_kernel_shap.Test.test_multi_input_kernel_shap_without_mask>,AssertionError:1,
+tests.attr.test_targets.TestTargets.test_target_basic_multi_input_multi_target_DeepLift>,AssertionError:1,
+tests.attr.test_targets.TestTargets.test_target_basic_multi_tensor_target_with_single_baseline_grad_shap_GradientShap>,AssertionError:1,
+tests.attr.test_shapley.Test.test_single_shapley_batch_scalar_tensor_1d>,AssertionError:1,
+tests.attr.test_kernel_shap.Test.test_single_kernel_shap_scalar_tensor_0d>,AssertionError:2,
+tests.attr.test_feature_permutation.Test.test_single_input>,AssertionError:1,
+Total runs: 1000, timeouts: 0 
+
+
+catalyst_
+WSeed Files: 240
+WOSeed Files: 15
+Total runs: 0, timeouts: 255 
+
+
+causalml_
+WSeed Files: 500
+WOSeed Files: 40
+Total runs: 0, timeouts: 540 
+
+
+christmAIs_
+WSeed Files: 500
+WOSeed Files: 500
+Total runs: 1000, timeouts: 0 
+
+
+cleverhans_
+WSeed Files: 500
+WOSeed Files: 500
+Total runs: 1000, timeouts: 0 
+
+
+coax_
+WSeed Files: 500
+WOSeed Files: 500
+Total runs: 1000, timeouts: 0 
+
+
+compression_
+WSeed Files: 500
+WOSeed Files: 500
+Total runs: 1000, timeouts: 0 
+
+
+datasets_
+WSeed Files: 500
+WOSeed Files: 500
+tensorflow_datasets.image_classification.cbis_ddsm_test.CuratedBreastImagingDDSMPatchesTest.test_download_and_prepare_as_dataset>,AssertionError:490,
+Total runs: 979, timeouts: 21 
+
+
+ddsp_
+WSeed Files: 500
+WOSeed Files: 500
+Total runs: 1000, timeouts: 0 
+
+
+deepchem_
+WSeed Files: 243
+WOSeed Files: 11
+Total runs: 223, timeouts: 31 
+
+
+deepmind-research_
+WSeed Files: 500
+WOSeed Files: 500
+Total runs: 1000, timeouts: 0 
+
+
+disentanglement_lib_
+WSeed Files: 500
+WOSeed Files: 500
+Total runs: 1000, timeouts: 0 
+
+
+donkeycar_
+WSeed Files: 500
+WOSeed Files: 500
+Total runs: 1000, timeouts: 0 
+
+
+dopamine_
+WSeed Files: 500
+WOSeed Files: 500
+sum_tree_test.SumTreeTest.testSamplePairWithUnevenProbabilities>,AssertionError:500,
+sum_tree_test.SumTreeTest.testSamplingWithSeedDoesNotAffectFutureCalls>,AssertionError:500,
+Total runs: 1000, timeouts: 0 
+
+
+elephas_
+WSeed Files: 500
+WOSeed Files: 500
+Total runs: 1000, timeouts: 0 
+
+
+exoplanet_
+WSeed Files: 500
+WOSeed Files: 500
+Total runs: 1000, timeouts: 0 
+
+
+fairseq_
+WSeed Files: 500
+WOSeed Files: 500
+Total runs: 1000, timeouts: 0 
+
+
+fastNLP_
+WSeed Files: 500
+WOSeed Files: 500
+Total runs: 42, timeouts: 958 
+
+
+flair_
+WSeed Files: 500
+WOSeed Files: 500
+Total runs: 1000, timeouts: 0 
+
+
+funsor_
+WSeed Files: 500
+WOSeed Files: 500
+Total runs: 1000, timeouts: 0 
+
+
+gan_
+WSeed Files: 63
+WOSeed Files: 15
+Total runs: 45, timeouts: 33 
+
+
+garage_
+WSeed Files: 500
+WOSeed Files: 500
+Total runs: 1, timeouts: 999 
+
+
+gensim_
+WSeed Files: 500
+WOSeed Files: 500
+gensim.test.test_rpmodel.TestRpModel.test_transform>,AssertionError:82,
+gensim.test.test_similarity_metrics.TestHellinger.test_distributions>,AssertionError:95,
+gensim.test.test_similarity_metrics.TestKL.test_distributions>,AssertionError:1,
+Total runs: 1000, timeouts: 0 
+
+
+gin-config_
+WSeed Files: 500
+WOSeed Files: 500
+Total runs: 1000, timeouts: 0 
+
+
+gpytorch_
+WSeed Files: 500
+WOSeed Files: 500
+Total runs: 0, timeouts: 1000 
+
+
+graphics_
+WSeed Files: 500
+WOSeed Files: 500
+tensorflow_graphics.rendering.camera.tests.perspective_test.PerspectiveTest.test_intrinsics_from_matrix_to_intrinsics_random>,AssertionError:500,
+Total runs: 1000, timeouts: 0 
+
+
+hummingbird_
+WSeed Files: 500
+WOSeed Files: 500
+Total runs: 0, timeouts: 1000 
+
+
+ignite_
+WSeed Files: 500
+WOSeed Files: 500
+tests/ignite/distributed/test_auto.py:test_dist_proxy_sampler,AssertionError:471,
+tests/ignite/engine/test_deterministic.py:test_update_dataloader,AssertionError:471,
+tests/ignite/engine/test_deterministic.py:test_reproducible_batch_sampler,AssertionError:471,
+tests/ignite/engine/test_deterministic.py:test_keep_random_state,AssertionError:471,
+tests/ignite/engine/test_deterministic.py:test_keep_random_state_without_numpy,AssertionError:471,
+tests/ignite/engine/test_deterministic.py:test_resume_random_dataloader_from_epoch,AssertionError:471,
+tests/ignite/engine/test_deterministic.py:test_resume_random_dataloader_from_iter,AssertionError:471,
+tests/ignite/engine/test_deterministic.py:test_resume_random_data_iterator_from_epoch,AssertionError:471,
+tests/ignite/engine/test_deterministic.py:test_resume_random_data_iterator_from_iter,AssertionError:471,
+tests/ignite/engine/test_deterministic.py:test_concepts_snippet_resume,AssertionError:471,
+tests/ignite/engine/test_deterministic.py:test_gradients_on_resume_cpu,AssertionError:471,
+tests/ignite/engine/test_engine.py:test_engine_random_state,AssertionError:470,
+tests/ignite/engine/test_engine.py:test_altered_random_state,AssertionError:471,
+tests/ignite/contrib/metrics/test_average_precision.py:test_multilabel_input_N,AssertionError:29,
+tests/ignite/contrib/metrics/regression/test_r2_score.py:test_integration_r2_score_with_output_transform,AssertionError:52,
+tests/ignite/contrib/metrics/test_average_precision.py:test_distrib_cpu,AssertionError:19,
+tests/ignite/contrib/metrics/regression/test_median_relative_absolute_error.py:test_distrib_cpu,AssertionError:79,
+tests/ignite/contrib/metrics/regression/test_r2_score.py:test_r2_score_2,AssertionError:61,
+tests/ignite/contrib/metrics/regression/test_mean_normalized_bias.py:test_distrib_cpu,AssertionError:21,
+tests/ignite/contrib/metrics/regression/test_wave_hedges_distance.py:test_compute,AssertionError:6,
+tests/ignite/contrib/metrics/test_average_precision.py:test_binary_input_N,AssertionError:14,
+tests/ignite/contrib/metrics/regression/test_fractional_bias.py:test_distrib_cpu,AssertionError:6,
+tests/ignite/contrib/metrics/regression/test_r2_score.py:test_r2_score,AssertionError:5,
+tests/ignite/handlers/test_terminate_on_nan.py:test_with_terminate_on_inf,AssertionError:20,
+tests/ignite/handlers/test_terminate_on_nan.py:test_terminate_on_nan_and_inf[state_output3-True],AssertionError:1,
+tests/ignite/contrib/metrics/regression/test_mean_normalized_bias.py:test_mean_error,AssertionError:9,
+tests/ignite/handlers/test_terminate_on_nan.py:test_with_terminate_on_nan,AssertionError:1,
+tests/ignite/metrics/test_top_k_categorical_accuracy.py:test_distrib_cpu,AssertionError:1,
+tests/ignite/metrics/test_metrics_lambda.py:test_distrib_cpu,AssertionError:1,
+Total runs: 945, timeouts: 55 
+
+
+image-segmentation-keras_
+WSeed Files: 36
+WOSeed Files: 15
+Total runs: 4, timeouts: 47 
+
+
+image-super-resolution_
+WSeed Files: 500
+WOSeed Files: 500
+Total runs: 1000, timeouts: 0 
+
+
+imbalanced-learn_
+WSeed Files: 500
+WOSeed Files: 500
+Total runs: 1000, timeouts: 0 
+
+
+keras-mdn-layer_
+WSeed Files: 500
+WOSeed Files: 500
+Total runs: 1000, timeouts: 0 
+
+
+kornia_
+WSeed Files: 500
+WOSeed Files: 500
+Total runs: 0, timeouts: 1000 
+
+
+learn2learn_
+WSeed Files: 500
+WOSeed Files: 500
+tests.unit.utils_test.UtilTests.test_rnn_clone>,AssertionError:24,
+Total runs: 1000, timeouts: 0 
+
+
+ltp_
+WSeed Files: 500
+WOSeed Files: 500
+Total runs: 1000, timeouts: 0 
+
+
+lucid_
+WSeed Files: 500
+WOSeed Files: 500
+Total runs: 1000, timeouts: 0 
+
+
+magenta_
+WSeed Files: 500
+WOSeed Files: 500
+magenta.interfaces.midi.midi_hub_test.MidiHubTest.testStartCapture_Callback_Period>,AssertionError:20,
+magenta.interfaces.midi.midi_hub_test.MidiHubTest.testStartCapture_Callback_Period_Overrun>,AssertionError:19,
+Total runs: 1000, timeouts: 0 
+
+
+magnitude_
+WSeed Files: 500
+WOSeed Files: 500
+Total runs: 0, timeouts: 1000 
+
+
+meta-dataset_
+WSeed Files: 500
+WOSeed Files: 500
+Total runs: 0, timeouts: 1000 
+
+
+ml-agents_
+WSeed Files: 500
+WOSeed Files: 500
+Total runs: 1000, timeouts: 0 
+
+
+ml-on-gcp_
+WSeed Files: 500
+WOSeed Files: 500
+Total runs: 1000, timeouts: 0 
+
+
+mmf_
+WSeed Files: 21
+WOSeed Files: 12
+Total runs: 0, timeouts: 33 
+
+
+nlp-architect_
+WSeed Files: 500
+WOSeed Files: 500
+Total runs: 1000, timeouts: 0 
+
+
+nnUNet_
+WSeed Files: 500
+WOSeed Files: 500
+Total runs: 1000, timeouts: 0 
+
+
+nn_
+WSeed Files: 500
+WOSeed Files: 500
+Total runs: 1000, timeouts: 0 
+
+
+open_spiel_
+WSeed Files: 500
+WOSeed Files: 500
+Total runs: 1000, timeouts: 0 
+
+
+optuna_
+WSeed Files: 500
+WOSeed Files: 500
+Total runs: 0, timeouts: 1000 
+
+
+orbit_
+WSeed Files: 500
+WOSeed Files: 500
+tests/orbit/models/test_dlt.py:test_dlt_mixed_signs_and_order[negative_mixed],AssertionError:500,
+tests/orbit/models/test_dlt.py:test_dlt_mixed_signs_and_order[positive_negative],AssertionError:500,
+tests/orbit/models/test_dlt.py:test_dlt_full_reproducibility[1-positive_only-stan-mcmc],AssertionError:500,
+tests/orbit/models/test_dlt.py:test_dlt_full_reproducibility[1-regular_only-stan-mcmc],AssertionError:500,
+tests/orbit/models/test_dlt.py:test_dlt_full_reproducibility[1-negative_only-stan-mcmc],AssertionError:500,
+tests/orbit/models/test_dlt.py:test_dlt_full_reproducibility[1-positive_mixed-stan-mcmc],AssertionError:500,
+tests/orbit/models/test_dlt.py:test_dlt_full_reproducibility[1-negative_mixed-stan-mcmc],AssertionError:500,
+tests/orbit/models/test_dlt.py:test_dlt_full_reproducibility[1-mixed_signs-stan-mcmc],AssertionError:500,
+tests/orbit/models/test_dlt.py:test_dlt_full_reproducibility[52-positive_only-stan-mcmc],AssertionError:500,
+tests/orbit/models/test_dlt.py:test_dlt_full_reproducibility[52-regular_only-stan-mcmc],AssertionError:500,
+tests/orbit/models/test_dlt.py:test_dlt_full_reproducibility[52-negative_only-stan-mcmc],AssertionError:500,
+tests/orbit/models/test_dlt.py:test_dlt_full_reproducibility[52-positive_mixed-stan-mcmc],AssertionError:500,
+tests/orbit/models/test_dlt.py:test_dlt_full_reproducibility[52-negative_mixed-stan-mcmc],AssertionError:500,
+tests/orbit/models/test_dlt.py:test_dlt_full_reproducibility[52-mixed_signs-stan-mcmc],AssertionError:500,
+tests/orbit/models/test_dlt.py:test_dlt_map_reproducibility[52],AssertionError:500,
+tests/orbit/models/test_ets.py:test_ets_full_reproducibility[1],AssertionError:500,
+tests/orbit/models/test_ets.py:test_ets_full_reproducibility[52],AssertionError:500,
+tests/orbit/models/test_ets.py:test_ets_map_reproducibility[52],AssertionError:500,
+tests/orbit/models/test_lgt.py:test_lgt_full_reproducibility[1-positive_only-stan-mcmc],AssertionError:500,
+tests/orbit/models/test_lgt.py:test_lgt_full_reproducibility[1-regular_only-stan-mcmc],AssertionError:500,
+tests/orbit/models/test_lgt.py:test_lgt_full_reproducibility[1-mixed_signs-stan-mcmc],AssertionError:500,
+tests/orbit/models/test_lgt.py:test_lgt_full_reproducibility[52-positive_only-stan-mcmc],AssertionError:500,
+tests/orbit/models/test_lgt.py:test_lgt_full_reproducibility[52-regular_only-stan-mcmc],AssertionError:500,
+tests/orbit/models/test_lgt.py:test_lgt_full_reproducibility[52-mixed_signs-stan-mcmc],AssertionError:500,
+tests/orbit/models/test_lgt.py:test_lgt_map_reproducibility[52],AssertionError:500,
+Total runs: 1000, timeouts: 0 
+
+
+pgmpy_
+WSeed Files: 500
+WOSeed Files: 500
+Total runs: 0, timeouts: 1000 
+
+
+privacy_
+WSeed Files: 500
+WOSeed Files: 201
+Total runs: 681, timeouts: 20 
+
+
+pyGPGO_
+WSeed Files: 500
+WOSeed Files: 500
+tests/test_surrogates.py:test_tSP_opt_nograd,AssertionError:27,
+Total runs: 1000, timeouts: 0 
+
+
+pyfolio_
+WSeed Files: 500
+WOSeed Files: 500
+pyfolio.tests.test_timeseries.TestBootstrap.test_calc_bootstrap_1>,AssertionError:55,
+Total runs: 1000, timeouts: 0 
+
+
+pymc3-ext_
+WSeed Files: 500
+WOSeed Files: 509
+tests/sampling/quadpotential_test.py:test_draw_samples_full,AssertionError:38,
+tests/sampling/sampling_test.py:test_basic,AssertionError:3,
+tests/sampling/quadpotential_test.py:test_sample_p,AssertionError:11,
+Total runs: 1000, timeouts: 9 
+
+
+pymc4_
+WSeed Files: 500
+WOSeed Files: 500
+tests/test_executor.py:test_deterministics,AssertionError:1,
+tests/test_variational.py:test_fit[FullRank ADVI: sample_size=2],AssertionError:4,
+tests/test_variational.py:test_fit[FullRank ADVI],AssertionError:6,
+tests/test_variational.py:test_fit[ADVI],AssertionError:2,
+Total runs: 1000, timeouts: 0 
+
+
+pyod_
+WSeed Files: 500
+WOSeed Files: 500
+Total runs: 1000, timeouts: 0 
+
+
+pyro_
+WSeed Files: 500
+WOSeed Files: 500
+Total runs: 0, timeouts: 1000 
+
+
+pytext_
+WSeed Files: 500
+WOSeed Files: 500
+Total runs: 1000, timeouts: 0 
+
+
+pytorch-fcn_
+WSeed Files: 500
+WOSeed Files: 500
+Total runs: 1000, timeouts: 0 
+
+
+pytorch-meta_
+WSeed Files: 500
+WOSeed Files: 500
+Total runs: 1000, timeouts: 0 
+
+
+pytorch-optimizer_
+WSeed Files: 500
+WOSeed Files: 500
+tests/test_optimizer.py:TestOptim.test_optimizer[A2GradExp_4],AssertionError:3,
+tests/test_optimizer_with_nn.py:test_basic_nn_modeloptimizer_config[AdamP ({'lr': 1.0, 'weight_decay': 0.001}, 200)],AssertionError:73,
+tests/test_optimizer_with_nn.py:test_basic_nn_modeloptimizer_config[Adafactor ({'lr': None, 'weight_decay': 0.001}, 200)],AssertionError:17,
+tests/test_optimizer_with_nn.py:test_basic_nn_modeloptimizer_config[A2GradExp ({'lips': 1.0, 'beta': 0.001}, 200)],AssertionError:3,
+tests/test_optimizer_with_nn.py:test_basic_nn_modeloptimizer_config[Lamb ({'lr': 0.01, 'weight_decay': 0.001}, 200)],AssertionError:17,
+tests/test_optimizer_with_nn.py:test_basic_nn_modeloptimizer_config[RangerQH ({'lr': 0.01, 'weight_decay': 0.001}, 200)],AssertionError:1,
+tests/test_optimizer_with_nn.py:test_basic_nn_modeloptimizer_config[Shampoo ({'lr': 0.1, 'weight_decay': 0.001, 'momentum': 0.8}, 200)],AssertionError:43,
+tests/test_optimizer_with_nn.py:test_basic_nn_modeloptimizer_config[A2GradUni ({'lips': 1.0, 'beta': 0.001}, 200)],AssertionError:4,
+tests/test_optimizer.py:TestOptim.test_optimizer[A2GradUni_5],AssertionError:2,
+tests/test_optimizer.py:TestOptim.test_optimizer[A2GradInc_6],AssertionError:5,
+tests/test_optimizer.py:TestOptim.test_optimizer[A2GradExp_0],AssertionError:5,
+tests/test_optimizer.py:TestOptim.test_optimizer[A2GradExp_5],AssertionError:3,
+tests/test_optimizer_with_nn.py:test_basic_nn_modeloptimizer_config[RangerVA ({'lr': 0.01, 'weight_decay': 0.001}, 200)],AssertionError:6,
+tests/test_optimizer_with_nn.py:test_basic_nn_modeloptimizer_config[A2GradInc ({'lips': 1.0, 'beta': 0.001}, 200)],AssertionError:2,
+tests/test_optimizer.py:TestOptim.test_optimizer[A2GradUni_4],AssertionError:2,
+tests/test_optimizer_with_nn.py:test_basic_nn_modeloptimizer_config[SWATS ({'lr': 1.0, 'weight_decay': 0.001}, 200)],AssertionError:1,
+tests/test_optimizer.py:TestOptim.test_optimizer[A2GradInc_4],AssertionError:2,
+tests/test_optimizer_with_nn.py:test_basic_nn_modeloptimizer_config[AggMo ({'lr': 1.0, 'weight_decay': 0.001}, 200)],AssertionError:5,
+tests/test_optimizer.py:TestOptim.test_optimizer[A2GradInc_0],AssertionError:2,
+tests/test_optimizer.py:TestOptim.test_optimizer[A2GradExp_1],AssertionError:2,
+tests/test_optimizer.py:TestOptim.test_optimizer[A2GradExp_6],AssertionError:2,
+tests/test_optimizer.py:TestOptim.test_optimizer[A2GradInc_1],AssertionError:2,
+tests/test_optimizer.py:TestOptim.test_optimizer[A2GradUni_6],AssertionError:4,
+tests/test_optimizer.py:TestOptim.test_optimizer[A2GradUni_1],AssertionError:1,
+tests/test_optimizer.py:TestOptim.test_optimizer[A2GradInc_5],AssertionError:1,
+Total runs: 1000, timeouts: 0 
+
+
+quest_qa_labeling_
+WSeed Files: 500
+WOSeed Files: 500
+Total runs: 1000, timeouts: 0 
+
+
+ranking_
+WSeed Files: 500
+WOSeed Files: 500
+tensorflow_ranking.python.utils_test.UtilsTest.test_sort_by_scores_with_mask_and_shuffle_ties>,AssertionError:500,
+tensorflow_ranking.python.keras.layers_test.DocumentInteractionAttentionLayerTest.test_call>,AssertionError:500,
+Total runs: 1000, timeouts: 0 
+
+
+raster-vision_
+WSeed Files: 500
+WOSeed Files: 500
+Total runs: 1000, timeouts: 0 
+
+
+reaver_
+WSeed Files: 500
+WOSeed Files: 500
+Total runs: 1000, timeouts: 0 
+
+
+refnx_
+WSeed Files: 500
+WOSeed Files: 500
+refnx/analysis/test/test_curvefitter.py:TestCurveFitter.test_fit_smoke,AssertionError:500,
+refnx/analysis/test/test_objective.py:TestObjective.test_model,AssertionError:500,
+refnx/analysis/test/test_objective.py:TestObjective.test_synthetic_data,AssertionError:500,
+refnx/analysis/test/test_objective.py:TestObjective.test_logpost,AssertionError:500,
+refnx/analysis/test/test_objective.py:TestObjective.test_chisqr,AssertionError:500,
+refnx/analysis/test/test_objective.py:TestObjective.test_residuals,AssertionError:500,
+refnx/analysis/test/test_objective.py:TestObjective.test_base_emcee,AssertionError:500,
+TestPlatypusNexus.test_background_subtract_line,AssertionError:500,
+TestPlatypusNexus.test_background_subtract,AssertionError:500,
+refnx/analysis/test/test_curvefitter.py:TestCurveFitter.test_constraints,AssertionError:1,
+Total runs: 1000, timeouts: 0 
+
+
+rethinking_bottleneck_design_
+WSeed Files: 500
+WOSeed Files: 500
+Total runs: 2, timeouts: 998 
+
+
+rlcard_
+WSeed Files: 500
+WOSeed Files: 500
+tests.utils.test_utils.TestUtils.test_set_global_seed>,AssertionError:500,
+tests.games.test_gin_rummy_game.TestGinRummyGame.test_step>,AssertionError:1,
+Total runs: 1000, timeouts: 0 
+
+
+sbi_
+WSeed Files: 500
+WOSeed Files: 500
+Total runs: 1000, timeouts: 0 
+
+
+scvi-tools_
+WSeed Files: 500
+WOSeed Files: 500
+Total runs: 1000, timeouts: 0 
+
+
+sentence-transformers_
+WSeed Files: 500
+WOSeed Files: 500
+Total runs: 0, timeouts: 1000 
+
+
+serve_
+WSeed Files: 500
+WOSeed Files: 500
+Total runs: 1000, timeouts: 0 
+
+
+snorkel_
+WSeed Files: 500
+WOSeed Files: 500
+test.classification.test_classifier_convergence.ClassifierConvergenceTest.test_convergence>,AssertionError:195,
+test.labeling.model.test_label_model.TestLabelModelAdvanced.test_label_model_sparse>,AssertionError:48,
+test_schedulers.SequentialTest.test_shuffled>,AssertionError:26,
+test.slicing.test_convergence.SlicingConvergenceTest.test_performance>,AssertionError:197,
+test.labeling.test_convergence.LabelingConvergenceTest.test_labeling_convergence>,AssertionError:52,
+test.slicing.test_convergence.SlicingConvergenceTest.test_convergence>,AssertionError:36,
+test.slicing.test_slice_combiner.SliceCombinerTest.test_temperature>,AssertionError:30,
+test.labeling.model.test_label_model.TestLabelModelAdvanced.test_label_model_basic>,AssertionError:2,
+test.labeling.model.test_label_model.LabelModelTest.test_model_loss>,AssertionError:2,
+Total runs: 1000, timeouts: 0 
+
+
+sonnet_
+WSeed Files: 500
+WOSeed Files: 500
+initializers_test.VarianceScalingInitializerTest.testMixedShape0>,AssertionError:414,
+initializers_test.VarianceScalingInitializerTest.testMixedShape1>,AssertionError:414,
+initializers_test.VarianceScalingInitializerTest.testMixedShape2>,AssertionError:414,
+initializers_test.VarianceScalingInitializerTest.testMixedShape3>,AssertionError:414,
+initializers_test.VarianceScalingInitializerTest.testMixedShape4>,AssertionError:414,
+initializers_test.VarianceScalingInitializerTest.testMixedShape5>,AssertionError:414,
+initializers_test.VarianceScalingInitializerTest.testMixedShape6>,AssertionError:414,
+initializers_test.VarianceScalingInitializerTest.testMixedShape7>,AssertionError:414,
+initializers_test.VarianceScalingInitializerTest.testMixedShape8>,AssertionError:414,
+Total runs: 845, timeouts: 155 
+
+
+spektral_
+WSeed Files: 500
+WOSeed Files: 500
+tests/test_layers/test_ops.py:test_base_ops,AssertionError:6,
+Total runs: 1000, timeouts: 0 
+
+
+stellargraph_
+WSeed Files: 500
+WOSeed Files: 500
+tests/data/test_edge_splitter.py:TestEdgeSplitterHeterogeneous.test_split_data_by_edge_type_and_attribute,AssertionError:2,
+tests/data/test_edge_splitter.py:TestEdgeSplitterHeterogeneous.test_split_data_by_edge_type,AssertionError:2,
+tests/data/test_edge_splitter.py:TestEdgeSplitterHeterogeneous.test_split_data_global,AssertionError:2,
+tests/data/test_edge_splitter.py:TestEdgeSplitterHeterogeneous.test_split_data_local,AssertionError:2,
+tests/mapper/test_node_mappers.py:test_hinnodemapper_shuffle,AssertionError:3,
+tests/reproducibility/test_deep_graph_infomax.py:test_dgi[False-GCN],AssertionError:3,
+tests/reproducibility/test_deep_graph_infomax.py:test_dgi[False-APPNP],AssertionError:3,
+tests/reproducibility/test_deep_graph_infomax.py:test_dgi[False-GAT],AssertionError:3,
+tests/reproducibility/test_deep_graph_infomax.py:test_dgi[False-PPNP],AssertionError:3,
+tests/reproducibility/test_deep_graph_infomax.py:test_dgi[True-GCN],AssertionError:3,
+tests/reproducibility/test_deep_graph_infomax.py:test_dgi[True-APPNP],AssertionError:3,
+tests/reproducibility/test_deep_graph_infomax.py:test_dgi[True-GAT],AssertionError:3,
+tests/utils/test_hyperbolic.py:test_poincare_ball_distance_self,AssertionError:1,
+Total runs: 6, timeouts: 994 
+
+
+talos_
+WSeed Files: 500
+WOSeed Files: 500
+Total runs: 1000, timeouts: 0 
+
+
+tapas_
+WSeed Files: 500
+WOSeed Files: 500
+Total runs: 1000, timeouts: 0 
+
+
+tensor2robot_
+WSeed Files: 500
+WOSeed Files: 500
+Total runs: 1000, timeouts: 0 
+
+
+tensorboard_
+WSeed Files: 500
+WOSeed Files: 500
+Total runs: 1000, timeouts: 0 
+
+
+texar_
+WSeed Files: 500
+WOSeed Files: 500
+Total runs: 1000, timeouts: 0 
+
+
+text-to-text-transfer-transformer_
+WSeed Files: 500
+WOSeed Files: 500
+Total runs: 1000, timeouts: 0 
+
+
+tf-quant-finance_
+WSeed Files: 500
+WOSeed Files: 500
+Total runs: 1000, timeouts: 0 
+
+
+tf2rl_
+WSeed Files: 500
+WOSeed Files: 500
+Total runs: 1000, timeouts: 0 
+
+
+thinc_
+WSeed Files: 500
+WOSeed Files: 500
+test_mypy_results[mypy-plugin.ini-success_plugin.py-success-plugin.txt],AssertionError:500,
+test_mypy_results[mypy-plugin.ini-fail_plugin.py-fail-plugin.txt],AssertionError:500,
+test_mypy_results[mypy-default.ini-success_no_plugin.py-success-no-plugin.txt],AssertionError:500,
+test_mypy_results[mypy-default.ini-fail_no_plugin.py-fail-no-plugin.txt],AssertionError:500,
+Total runs: 1000, timeouts: 0 
+
+
+tianshou_
+WSeed Files: 500
+WOSeed Files: 500
+test/discrete/test_sac.py:test_discrete_sac,AssertionError:1,
+Total runs: 3, timeouts: 997 
+
+
+tnt_
+WSeed Files: 500
+WOSeed Files: 500
+Total runs: 1000, timeouts: 0 
+
+
+tpot_
+WSeed Files: 500
+WOSeed Files: 500
+test_dask_based.TestDaskMatches.test_dask_matches>,AssertionError:500,
+Total runs: 1000, timeouts: 0 
+
+
+umap_
+WSeed Files: 500
+WOSeed Files: 500
+umap/tests/test_composite_models.py:test_composite_trustworthiness,AssertionError:58,
+umap/tests/test_umap_on_iris.py:test_umap_transform_on_iris_w_pynndescent,AssertionError:12,
+umap/tests/test_umap_metrics.py:test_grad_metrics_match_metrics,AssertionError:25,
+umap/tests/test_umap_on_iris.py:test_umap_transform_on_iris,AssertionError:6,
+umap/tests/test_umap_on_iris.py:test_precomputed_transform_on_iris,AssertionError:11,
+umap/tests/test_umap_on_iris.py:test_precomputed_sparse_transform_on_iris,AssertionError:8,
+umap/tests/test_umap_on_iris.py:test_umap_sparse_transform_on_iris,AssertionError:4,
+umap/tests/test_umap_ops.py:test_multi_component_layout_precomputed,AssertionError:1,
+umap/tests/test_umap_metrics.py:test_sparse_canberra,AssertionError:1,
+umap/tests/test_umap_metrics.py:test_kulsinski,AssertionError:2,
+umap/tests/test_umap_metrics.py:test_russellrao,AssertionError:2,
+umap/tests/test_umap_metrics.py:test_sparse_cosine,AssertionError:2,
+umap/tests/test_umap_metrics.py:test_sparse_correlation,AssertionError:2,
+umap/tests/test_umap_metrics.py:test_sparse_kulsinski,AssertionError:2,
+umap/tests/test_umap_metrics.py:test_sparse_russellrao,AssertionError:2,
+umap/tests/test_umap_ops.py:test_umap_graph_layout,AssertionError:1,
+Total runs: 1000, timeouts: 0 
+
+
+zfit_
+WSeed Files: 500
+WOSeed Files: 500
+tests/test_pdf_sumpdf.py:test_sampling,AssertionError:1,
+tests/test_sampling.py:test_sampling_fixed[create_test_pdf_overriden_gauss1],AssertionError:2,
+tests/test_sampling.py:test_sampling_fixed[create_test_gauss1],AssertionError:1,
+Total runs: 999, timeouts: 1 
+
+
