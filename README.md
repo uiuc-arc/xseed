@@ -53,7 +53,7 @@ all projects
 stats. This requires installing pandas.
 
 **Full test execution logs of each Project**: This step help download all experimental data and generate Table 2 in the paper. Steps:
-1. Download full experiment data from [https://zenodo.org/record/6388114](Zenodo).
+1. Download full experiment data from [Zenodo](https://zenodo.org/record/6388114).
 2. Extract each logs_*.gz file inside the folder.
 3. Run `python failedTestsParser.py [root of downloaded folder]`. This will generate table 2. Note that this may take several minutes.
 
